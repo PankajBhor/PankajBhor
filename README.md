@@ -44,7 +44,8 @@
 
 ---
 
-## 📊 GitHub Stats (coming soon...)
+## 📊 GitHub Stats 
+- will be uploaded soon
 <!-- Add your GitHub stats and trophies later here -->
 
 <!--
