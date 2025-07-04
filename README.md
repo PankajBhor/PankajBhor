@@ -1,58 +1,63 @@
-# 👋 Hi, I'm Pankaj Bhor
+# 👋 Hello! I'm Pankaj Bhor
 
-🎓 I'm a 3rd year Computer Engineering Diploma student  
-💼 Currently working as an Intern at **Transflower Learning Pvt. Ltd**  
-🌱 Learning Full-Stack Development and working on the **TFL Assessment Project**
+🎓 **Diploma Student in Computer Engineering (3rd Year)**  
+💼 **Intern at Transflower Learning Pvt. Ltd**  
+🚀 Passionate about building scalable web applications and becoming a proficient **Full-Stack Developer**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💡 About Me
+
+- 🎯 Focused on mastering **Java**, **MySQL**, and full-stack web development  
+- 🔨 Currently contributing to the **TFL Assessment Project**  
+- 💡 Actively working on **small UI/UX design projects using Figma** to improve interface design skills  
+- 🧑‍💻 Recently completed a **Portfolio Website project** as part of academic work  
+- 🤝 Open to **internship opportunities** and collaborative tech projects  
+- 📚 Exploring tools like **Spring Boot**, **Maven**, and version control with **Git**
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-
-  <!-- Tools / Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </p>
 
 ---
 
-## 🎯 Goals
-- 🚀 My current goal is to become a **Full-Stack Developer**
-- 🤝 I'm open to **internship opportunities** and tech collaborations
+## 📫 Connect with Me
+
+- 📧 **Email:** [pankajbhor373@gmail.com](mailto:pankajbhor373@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/pankaj-bhor-ba469036b](https://www.linkedin.com/in/pankaj-bhor-ba469036b/)  
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: [pankajbhor373@gmail.com](mailto:pankajbhor373@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/pankaj-bhor-ba469036b](https://www.linkedin.com/in/pankaj-bhor-ba469036b/)  
-- 💻 GitHub: [github.com/PankajBhor](https://github.com/PankajBhor)
+## ⚽ Interests
+
+When I'm not coding, you’ll find me:
+- 🎮 Gaming  
+- 🏏 Playing or watching cricket  
+- ⚽ Following football matches  
 
 ---
 
-## 💬 Fun Facts
-- 🎮 I love gaming  
-- 🏏 I'm a big fan of cricket  
-- ⚽ Football is also one of my favorite sports
+## 📊 GitHub Stats (Will Update Later)
 
----
-
-## 📊 GitHub Stats 
-- will be uploaded soon
-<!-- Add your GitHub stats and trophies later here -->
-
+<!-- You can activate these later -->
 <!--
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajBhor&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajBhor&layout=compact)
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajBhor&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajBhor&layout=compact&theme=tokyonight)
 -->
 
 ---
 
-*Thanks for visiting my profile! Have a great day 😊*
+Thanks for stopping by! 😊  
+Feel free to reach out if you want to connect or collaborate.
